@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+header {
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    z-index: 2;
+}
+.header {
+    position: relative;
+    top: 30px;
+    text-align: center;
+}
+main {
+    position: absolute;
+    top: 110px;
+    border: 2px solid;
+    background-color: black;
+}
+section {
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    background-size: 200px 200px;
+    padding: 0px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    z-index: 1;
+    background-color: white;
+}
+.lawful-good {
+    background-image: url("Screenshot\ 2024-01-30\ at\ 9.56.50\ AM.png");
+    border-color: lightgreen;
+    display: inline-block;
+    color: white;
+    background-color: white;
+}
+.neutral-good {
+    background-image: url("S7.png");
+    border-color: lightgreen;
+}
+.chaotic-good {
+    background-color: black;
+    color: black;
+}
+.lawful-neutral {
+    background-image: url("Screenshot\ 2024-01-30\ at\ 10.15.43\ AM.png") ;
+    border-color: yellow;
+    color: white;
+    background-color: white;
+}
+.neutral {
+    background-image: url("P7.png") ;
+    border-color: yellow;
+}
+.chaotic-neutral {
+    background-image: url("Step7.png") ;
+    border-color: yellow;
+}
+.lawful-evil {
+        background-image: url("Screenshot\ 2024-01-30\ at\ 10.20.42\ AM.png") ;
+        border-color: red;
+        color: white;
+}
+.neutral-evil {
+    background-image: url("Boomerang.jpeg") ;
+    border-color: red;
+}
+.chaotic-evil {
+    background-color: black;
+}
+.title {
+    position: relative;
+    top: 35px;
+}
+.table {
+    position:relative;
+    left: 250px;
+}
+.Logo99 {
+    position: relative;
+    left: -500px;
+    top: -35px;
+}
+.Home {
+    position: relative;
+    top: -100px;
+    left: 500px;
+    font-size: 30px;
+}
+.Home:hover {
+    text-decoration: underline;
+    color: black;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+  }

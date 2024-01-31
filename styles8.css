@@ -1,0 +1,24 @@
+* {
+    background-color: lightblue;
+}
+.user-box {
+}
+.answer {
+    position: relative;
+    top: -140px;
+}
+.box {
+    background-color: white;
+    color: black;
+}
+.star {
+    position: relative;
+    top: -140px;
+    left: 650px;
+    width: 400px;
+}
+.submit {
+    position: relative;
+    top: -300px;
+    left: 5px;
+}

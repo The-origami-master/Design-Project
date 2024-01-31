@@ -1,0 +1,151 @@
+.body {
+    background-image: url(Backround\ pattern.png);
+}
+.head {
+    background: white;
+    z-index: 1;
+}
+.h1 {
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+.h2 {
+    position: relative;
+    left: 25px;
+    top: -95px;
+    font-size: 35px;
+}
+.Logo1 {
+    position: relative;
+    top: -110px;
+    left: 10px;
+}
+.boatS1 {
+    position: relative;
+    top: -85px;
+    left: 10px;
+    font-size: 19px;
+}
+.BoatI1 {
+    position: relative;
+    top: -65px;
+    border: 3px solid;
+}
+.BoatI2 {
+    border: 3px solid;
+}
+.BoatI3 {
+    border: 3px solid;
+}
+.BoatI4 {
+    border: 3px solid;
+}
+.BoatI5 {
+    border: 3px solid;
+}
+.BoatI6 {
+    border: 3px solid;
+}
+.BoatI7 {
+    border: 3px solid;
+}
+
+.h3 {
+    position: relative;
+    top: -45px;
+    left: 25px;
+    font-size: 35px;
+}
+.boatS2 {
+    position: relative;
+    left: 10px;
+    top: -35px;
+    font-size: 19px;
+}
+.h4 {
+    position: relative;
+    left: 25px;
+    top: 10px;
+    font-size: 35px;
+}
+.boatS3 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 19px;
+}
+.h5 {
+    position: relative;
+    top: 20px;
+    left: 25px;
+    font-size: 35px;
+}
+.boatS4 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 19px;
+}
+.h6 {
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+.boatS5 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 19px;
+}
+.h7 {
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+.boatS6 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 19px;
+}
+.h8 {
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+.boatS7 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-size: 19px;
+}
+.hr {
+    position: relative;
+    top: -60px;
+}
+.line {
+    height: 2px;
+    background-color: black;
+}
+.Home {
+    position: relative;
+    top: -630px;
+    left: 1040px;
+    font-size: 30px;
+}
+.Home:hover {
+    text-decoration: underline;
+    color: black;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+  }
+.lol {
+    font-size: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.imagine {
+    font-size: 20px;
+}
